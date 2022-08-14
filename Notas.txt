@@ -1,0 +1,27 @@
+Websockets
+Websockets es una tecnologia que hace posible establecer una conexion
+continua full-duplex, entre cliente y servidor
+
+Rest(Transferencia de estado representacional)
+
+Fullduplex
+Donde el servidor puede iniciar una conversacion
+
+
+Websockets vs Socket.io
+Socket.io tiene caracteristicas de mantebilidad muy por encima de websocket y se desarolla mas rapido
+
+caracteristicas
+*Namespaces
+*Salas o grupos
+*Emitir a grupos o individuos
+*Nos ayuda con informacion de latencia
+y muchas cosas mas al sacarlo de la caja
+
+Glosario
+*Servidor: Backen en node
+*Socket: Identificador de conexion de un cliente
+*Cliente: Dispositivo conectado al servidor Fullduplex
+*Emitir: cliente emite un evento
+*Evento: Accion que el cliente o el servidor disparan
+*Escuchar: Recibir informacion de un evento
